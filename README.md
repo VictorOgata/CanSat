@@ -1,2 +1,5 @@
 # CanSat
-Low Budget 3d printed small satellite which contains a subsystem based on arduino. 
+-Low Budget 
+-3d printed 
+-Small Satellite 
+-contains a subsystem based on arduino. 
